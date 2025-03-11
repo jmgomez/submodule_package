@@ -1,0 +1,4 @@
+[submodule "vendor/sat"]
+    path = vendor/sat
+    url = https://github.com/nim-lang/sat.git
+    branch = main
