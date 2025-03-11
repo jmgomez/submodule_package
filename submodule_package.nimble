@@ -9,4 +9,4 @@ bin = @["submodule_package"]
 
 # Dependencies
 
-requires "nim >= 2.3.1"
+requires "nim"
